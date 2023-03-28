@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "March 27 adding multiple people.Web", "March 27 adding multiple people.Web\March 27 adding multiple people.Web.csproj", "{EA20FC17-F420-4E42-9343-20AA8111072A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "March 27 library.Data", "March 27 library.Data\March 27 library.Data.csproj", "{C5038A17-2E66-43C1-AAF3-6C568D75EB6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA20FC17-F420-4E42-9343-20AA8111072A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA20FC17-F420-4E42-9343-20AA8111072A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA20FC17-F420-4E42-9343-20AA8111072A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA20FC17-F420-4E42-9343-20AA8111072A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5038A17-2E66-43C1-AAF3-6C568D75EB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5038A17-2E66-43C1-AAF3-6C568D75EB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5038A17-2E66-43C1-AAF3-6C568D75EB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5038A17-2E66-43C1-AAF3-6C568D75EB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABCEE235-7614-4623-A997-BCC3A06349DF}
+	EndGlobalSection
+EndGlobal
